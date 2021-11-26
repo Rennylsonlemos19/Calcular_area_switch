@@ -1,0 +1,7 @@
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\exercicios_somaarea_switch\bin\Debug\exercicios_somaarea_switch.exe.config
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\exercicios_somaarea_switch\bin\Debug\exercicios_somaarea_switch.exe
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\exercicios_somaarea_switch\bin\Debug\exercicios_somaarea_switch.pdb
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\exercicios_somaarea_switch\obj\Debug\exercicios_somaarea_switch.csproj.AssemblyReference.cache
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\exercicios_somaarea_switch\obj\Debug\exercicios_somaarea_switch.csproj.CoreCompileInputs.cache
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\exercicios_somaarea_switch\obj\Debug\exercicios_somaarea_switch.exe
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\exercicios_somaarea_switch\obj\Debug\exercicios_somaarea_switch.pdb
